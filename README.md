@@ -3,7 +3,7 @@
 * 
 
 # 💫 About Me:
-Hello My name is WIwat liangkobkit 👋
+  Hello My name is WIwat liangkobkit 👋  
   `🌍  I'm based in Bangkok, Thailand`  
   `🧠  I'm learning React!`  
 
