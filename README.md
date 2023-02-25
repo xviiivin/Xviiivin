@@ -4,8 +4,8 @@
 
 # 💫 About Me:
 Hello My name is WIwat liangkobkit 👋
-*🌍  I'm based in Bangkok, Thailand
-*🧠  I'm learning React!
+\n🌍  I'm based in Bangkok, Thailand
+\n🧠  I'm learning React!
 
 
 ## 🌐 Socials:
