@@ -1,8 +1,7 @@
 
 # 💫 About Me:
   Hello My name is WIwat liangkobkit 👋  
-  `🌍  I'm based in Bangkok, Thailand`  
-  `🧠  I'm learning React!`  
+  `🌍  I'm based in Bangkok, Thailand`    
 
 
 ## 🌐 Socials:
