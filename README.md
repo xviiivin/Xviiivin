@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wiwat+Liangkokbkit;+XVIIIVIN !"; />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+Wiwat+Liangkokbkit;+👻+XVIIIVIN+👻"; />
 </h1>
 
 <h3 align="center">🌍  I'm based in Bangkok, Thailand</h3>
@@ -18,10 +18,11 @@
 ⚡ Fun fact **Feelings are just visitors, let them come and go**
 
 💬 Ask me about *....*
- </div>
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=xviiivin&color=64C5D7&style=flat&label=Profile+Views">
 
+ </div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=xviiivin&color=64C5D7&style=flat&label=Profile+Views">
+</div>
  <hr/>
  
 
