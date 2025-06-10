@@ -20,7 +20,7 @@
 💬 Ask me about *....*
 
  </div>
- 
+
 <div align="center"> 
   <a href="wiwatwin1801@gmail.com" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
@@ -36,9 +36,12 @@
   </a>
 </div>
 
-<div align="center">
-        <img src="https://komarev.com/ghpvc/?username=xviiivin&color=64C5D7&style=flat&label=Profile+Views">
- </div>
+<br>
+
+<div align='center'>  
+    <img src="https://komarev.com/ghpvc/?username=xviiivin&color=orange&style=flat"> 
+</div> 
+
 <hr/>
 
 # :computer: Tech Stack:
