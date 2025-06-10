@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wiwat+Liangkokbkit;+XVIIIVIN!"; />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wiwat+Liangkokbkit;+XVIIIVIN !"; />
 </h1>
 
 <h3 align="center">🌍  I'm based in Bangkok, Thailand</h3>
@@ -18,8 +18,9 @@
 ⚡ Fun fact **Feelings are just visitors, let them come and go**
 
 💬 Ask me about *....*
-
  </div>
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=xviiivin&color=64C5D7&style=flat&label=Profile+Views">
 
  <hr/>
  
@@ -45,10 +46,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xviiivin&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=xviiivin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
