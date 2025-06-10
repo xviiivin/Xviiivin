@@ -1,6 +1,5 @@
 
 # 💫 About Me:
-  ``    
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Wiwat+Liangkokbkit;+XVIIIVIN!"; />
@@ -12,13 +11,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 📚 I graduated from the **Faculty of Information Technology at KMITL**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Golang, Next.js, Docker**
 
-💬 Ask me about ****
+⚡ Fun fact **Feelings are just visitors, let them come and go**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about *....*
 
  </div>
 
@@ -30,7 +29,15 @@
   <a href="wiwatwin1801@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-    [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Yv9UBX7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xviiivin) 
+   <a href="https://www.facebook.com/wiwat.liangkobkit.2024/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/xviiivin/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/wiwat-liangkobkit-35931a29a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 # :computer: Tech Stack:
