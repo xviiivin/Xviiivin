@@ -28,14 +28,14 @@
 
 ## 🌐 Socials:
 <div align="center"> 
-  <a href="wiwatwin1801@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="wiwatwin1801@gmail.com" target="_blank" >
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
   </a>
-   <a href="https://www.facebook.com/wiwat.liangkobkit.2024/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+   <a href="https://www.facebook.com/wiwat.liangkobkit.2024/" target="_blank ">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank " />
   </a>
-  <a href="https://www.instagram.com/xviiivin/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/xviiivin/"  target="_blank" >
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/wiwat-liangkobkit-35931a29a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
